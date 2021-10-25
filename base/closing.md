@@ -14,14 +14,12 @@
 
 My recommendation is to follow all of the instructions again, from the beginning on your own and send emails to [training.bioinformatics@ucdavis.edu](mailto:training.bioinformatics@ucdavis.edu) And we will be responsive to answering questions
 
-### Anticipated 2021 slate of Workshop include
+### Anticipated 2022 slate of Workshop include
 
 #### Continuous Workshops
 * RNA Sequencing Analysis (At UCD/ At UCSF/ Virtual)
 * Intro to Single Cell RNA Sequencing Analysis (At UCD/ At UCSF/ Virtual)
 * Genome Wide Association and DNA Variant Analysis (At UCD)
-* Microbial Community Analysis (At UCD)
-* Metagenomes/Metatranscriptomes (At UCD)
 
 #### Multiday Broken 1/2 - full day series
 * Bioinformatics Prerequisites (Dual onsite and virtual)
