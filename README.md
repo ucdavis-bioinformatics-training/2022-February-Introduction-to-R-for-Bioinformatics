@@ -20,18 +20,18 @@ Registration closes on Oct 24th, 2021.
 
 ### FAQ
 
-Who should attend? �~@� Prior course participants have included faculty, post docs, grad students, staff, and industry researchers.
+Who should attend? ... Prior course participants have included faculty, post docs, grad students, staff, and industry researchers.
 
-What are the prerequisites? �~@� There are no prerequisites other than an enthusiasm for learning bioinformatics data analysis.
+What are the prerequisites? ... There are no prerequisites other than an enthusiasm for learning bioinformatics data analysis.
 
-What do I need? �~@� You will need access to a computer with a recent version of R and Rstudio installed, as well as a reliable internet connection. If your department does not allow you to install software on your computer, please contact us ahead of time.
+What do I need? ... You will need access to a computer with a recent version of R and Rstudio installed, as well as a reliable internet connection. If your department does not allow you to install software on your computer, please contact us ahead of time.
 
-Can I bring my own data? �~@� We will provide experimental datasets for use during the workshop, as this helps to keep the workshop moving. There will be time, however, to discuss your own datasets and how you might work with them outside of the workshop.
+Can I bring my own data? ... We will provide experimental datasets for use during the workshop, as this helps to keep the workshop moving. There will be time, however, to discuss your own datasets and how you might work with them outside of the workshop.
 
-How do I apply? �~@� All registration is �~@~\first-come, first-served�~@~]. There is no application process.  Sign up as soon as possible to ensure your place in the workshop.
+How do I apply? ... All registration is "first-come, first-served". There is no application process.  Sign up as soon as possible to ensure your place in the workshop.
 
-Where can I find more information, including your policies?  ... Go to our website (bioinformatics.ucdavis.edu/training/) and check out our FAQ and Policies.
+Where can I find more information, including your policies? ... Go to our website (bioinformatics.ucdavis.edu/training/) and check out our FAQ and Policies.
 
 ### Questions
 
-If you have any questions, please don�~@~Yt hesitate to contact us at training.bioinformatics@ucdavis.edu
+If you have any questions, please don't hesitate to contact us at training.bioinformatics@ucdavis.edu
